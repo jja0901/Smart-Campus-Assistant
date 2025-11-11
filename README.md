@@ -7,7 +7,7 @@ This project demonstrates **object-oriented programming (OOP)** concepts like en
 
 ##  Overview
 
-The Smart Campus Assistant is a text-based system designed to simulate features of a university’s internal information assistant.  
+The Smart Campus Assistant is a text-based system designed to simulate features of a university’s internal information assistant based on the specifications given for this project.
 It lets users perform operations like adding students, assigning grades, viewing courses, managing library books, and scheduling events.
 
 ---
